@@ -1,0 +1,24 @@
+{
+  "name": "wow-token-charting",
+  "version": "1.0.0",
+  "description": "wow-token-charting",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slash2223456/wow-token-charting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slash2223456/wow-token-charting/issues"
+  },
+  "homepage": "https://github.com/slash2223456/wow-token-charting#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "moment": "^2.29.1"
+  }
+}
